@@ -1,12 +1,12 @@
 {
-    "name": "salsan/myapp",
-    "description": "Write a description here",
-    "type": "library",    
-    "keywords": ["example tag1", "example tag2", "example tag3"],
+    "name": "salsan/Tournaments",
+    "description": "Tournaments is a PHP library designed to retrieve data about chess Tournaments from the Chess Federation.",
+    "type": "library",
+    "keywords": ["chess", "library", "Tournaments"],
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Salsan\\Myapp\\": "src/"
+            "Salsan\\Tournaments\\": "src/"
         }
     },
     "authors": [
